@@ -23,17 +23,17 @@ Ingeniería en Sistemas Computacionales
 <br>
 
 **MATERIA:**  
-Análisis avanzado y desarrollo de software  
+Patrones de diseño
 
 <br>
 
 **TÍTULO ACTIVIDAD:**  
-Tema de estudio para la gestión de proyecto  
+Actividad de evidencia 2_U2 Singleton
 
 <br>
 
 **UNIDAD A EVALUAR:**  
-Unidad 1  
+Unidad 2
 
 <br>
 
@@ -43,6 +43,6 @@ Ortega Jimenez Jordi Joel 21212012
 <br>
 
 **NOMBRE DEL MAESTRO (A):**  
-Diego Saul Vasquez Rios  
+Maribel Guerrero Luis
 
 </div>
