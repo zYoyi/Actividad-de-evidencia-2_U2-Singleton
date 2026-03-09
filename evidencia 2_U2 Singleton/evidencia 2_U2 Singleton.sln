@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evidencia 2_U2 Singleton", "evidencia 2_U2 Singleton\evidencia 2_U2 Singleton.csproj", "{FA36338E-4E4D-4601-9C03-2185F37337E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA36338E-4E4D-4601-9C03-2185F37337E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA36338E-4E4D-4601-9C03-2185F37337E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA36338E-4E4D-4601-9C03-2185F37337E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA36338E-4E4D-4601-9C03-2185F37337E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99859B04-9503-4B59-B003-2FD12A97959B}
+	EndGlobalSection
+EndGlobal
