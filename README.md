@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![TECNM](logo-tecnm.png) ![EDUCACION](logo-educacion.png) ![ITTIJUANA](logo-ittijuana.png)
-
 # TECNOLÓGICO NACIONAL DE MÉXICO  
 ## INSTITUTO TECNOLÓGICO DE TIJUANA  
 
